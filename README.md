@@ -1,4 +1,4 @@
-[Application Link](https://yogitataluja.github.io/linkedIn_clone/):
+[**LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/):
  
 https://yogitataluja.github.io/linkedIn_clone/
 
