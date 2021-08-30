@@ -1,19 +1,19 @@
-#![LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/):
+# [LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/):
  
 
 Built using React JS, Redux, Firebase within a week. 
 
 
-Features and Functionality
+## Features and Functionality
 
-Login and Register by own account(Firebase Authentication)
-Create a new post
-Realtime update like User Name, Email, Profile Pic and posts
-Auto authenticate user on refresh
-Sign Out
+- Login and Register by own account(Firebase Authentication)
+- Create a new post
+- Realtime update like User Name, Email, Profile Pic and posts
+- Auto authenticate user on refresh
+- Sign Out
 
 
-How to build your own..?
+## How to build your own..?
 Clone this repo
 Install all the dependencies
      npm i
@@ -31,15 +31,15 @@ Now for hosting on GitHub Refer below link
 
 That's it our clone is up and running share it now
 
-Yet to be implemented 
+## Yet to be implemented 
 
-Login using Google (Firebase Authentication)
-Share photos and videos
-Like posts
-Mobile responsiveness
-Post deleting functionality
-Add comments on post
-Time spam 
+- Login using Google (Firebase Authentication)
+- Share photos and videos
+- Like posts
+- Mobile responsiveness
+- Post deleting functionality
+- Add comments on post
+ 
 
 
-NOTE: PLEASE LET ME KNOW IF YOU DISCOVERED ANY BUG OR YOU HAVE ANY SUGGESTIONS
+**NOTE: PLEASE LET ME KNOW IF YOU DISCOVERED ANY BUG OR YOU HAVE ANY SUGGESTIONS**
