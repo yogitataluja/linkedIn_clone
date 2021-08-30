@@ -27,9 +27,9 @@ Built using React JS, Redux, Firebase within a week.
    - Setup authentication using Email and Password
 1. Tweak code as you like
 
-## Now for hosting on GitHub Refer below link
+1. Now for hosting on GitHub Refer below link
 
-  https://create-react-app.dev/docs/deployment#github-pages 
+   https://create-react-app.dev/docs/deployment#github-pages 
 
 That's it our clone is up and running share it now
 
