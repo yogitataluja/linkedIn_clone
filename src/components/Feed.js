@@ -38,7 +38,7 @@ const Feed = () => {
                 name: user.displayName,
                 description: user.email,
                 message: input,
-                photourl: user.photoUrl || user.displayName[0],
+                photourl: user.photoUrl || user.email[0],
                 timestamp: firebase.firestore.FieldValue.serverTimestamp()
             })
             setInput("")
@@ -49,7 +49,7 @@ const Feed = () => {
         <div className="feed">
             <div className="feed_inputcontainer">
                 <div className="feed_dp">
-                    <Avatar className="post_pic" src={user.photoUrl} />
+                    <Avatar className="post_pic" src={user.photoUrl}>{user.email[0]}</Avatar>
                     <div className="feed_input">
                         <CreateIcon />
                         <form >
