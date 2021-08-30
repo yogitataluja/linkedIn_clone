@@ -1,4 +1,4 @@
-# [LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/):
+# [LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/)
  
 
 Built using React JS, Redux, Firebase within a week. 
@@ -14,10 +14,10 @@ Built using React JS, Redux, Firebase within a week.
 
 
 ## How to build your own..?
-Clone this repo
-Install all the dependencies
-     npm i
-Setup Firebase
+1. Clone this repo
+2. Install all the dependencies
+    - npm i
+3.Setup Firebase
 Create Firebase account
 Create a new project
 Create a web app for that
