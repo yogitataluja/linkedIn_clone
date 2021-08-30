@@ -15,9 +15,9 @@ Built using React JS, Redux, Firebase within a week.
 
 ## How to build your own..?
 1. Clone this repo
-2. Install all the dependencies
+1. Install all the dependencies
     - npm i
-3.Setup Firebase
+1.Setup Firebase
 Create Firebase account
 Create a new project
 Create a web app for that
