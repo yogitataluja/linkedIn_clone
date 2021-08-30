@@ -1,6 +1,5 @@
-#[LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/):
+#![LIVE DEMO](https://yogitataluja.github.io/linkedIn_clone/):
  
-https://yogitataluja.github.io/linkedIn_clone/
 
 Built using React JS, Redux, Firebase within a week. 
 
