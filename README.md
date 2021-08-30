@@ -17,16 +17,18 @@ Built using React JS, Redux, Firebase within a week.
 1. Clone this repo
 1. Install all the dependencies
     - npm i
-1.Setup Firebase
-Create Firebase account
-Create a new project
-Create a web app for that
-Copy your config from ther
-Select config option
-Paste those config inside firebase/config.js file
-Setup authentication using Email and Password
-Tweak code as you like
-Now for hosting on GitHub Refer below link
+1. Setup Firebase
+   - Create Firebase account
+   - Create a new project
+   - Create a web app for that
+   - Copy your config from ther
+      - Select config option
+      - Paste those config inside firebase/config.js file
+   - Setup authentication using Email and Password
+1. Tweak code as you like
+
+## Now for hosting on GitHub Refer below link
+
   https://create-react-app.dev/docs/deployment#github-pages 
 
 That's it our clone is up and running share it now
