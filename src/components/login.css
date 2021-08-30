@@ -1,0 +1,46 @@
+.signin{
+    position: sticky;
+    top: 0;
+display: flex;
+justify-content: space-evenly;
+background-color: #333333;
+padding: 15px;
+align-items: center;
+
+}
+.signin img{
+    object-fit: contain;
+   
+}
+
+.signin .form{
+    display: flex;
+    
+}
+
+.signin .form input{
+    margin-right: 40px;
+    padding: 0 10px;
+    font-size: 13px;
+    font-weight:400;
+    border-radius: 5px;
+    outline: none;
+}
+.signin .form button{
+border:1px solid white;
+color: white;
+}
+
+.sign_up{
+    display: grid;
+    place-items: center;
+    /* margin-left: auto;
+    margin-right: auto; */
+    padding: 20px 0;
+    background: url("../images/linkedin-back.jpg") no-repeat center ;
+    background-size: cover;
+    height: 92vh; 
+}
+
+
+

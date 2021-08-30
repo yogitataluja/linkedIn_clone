@@ -1,0 +1,44 @@
+.header{
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 0.1px solid lightgrey;
+    padding: 10px 0;
+    width: 100%;
+    z-index: 100;
+    background-color: white;
+    
+}
+.header_left{
+    display: flex;
+
+}
+.header_search{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    height: 36px;
+    color: grey;
+   background-color: #EEF3F8;
+   margin-left: 10px;
+   width: 25vw;
+
+}
+.header_search input{
+    outline: none;
+    border: none;
+    background: none;
+    height: 30px;
+}
+
+.header_left img{
+    object-fit: contain;    /* It maintain aspect ratio when i resize image  */
+     height:40px;
+}
+
+.header_right{
+    display: flex;
+    
+}

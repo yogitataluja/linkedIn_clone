@@ -1,0 +1,60 @@
+.feed{
+    flex: 0.5;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;  
+}
+.feed_inputcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid lightgray;
+}
+.feed_dp{
+    display: flex;
+    align-items: center;
+}
+.feed_dp .post_pic{
+    height: 50px;
+    width: 50px;
+}
+
+.feed_input{
+    display: flex;
+    align-items: center;
+    color: gray;
+    border: 1px solid lightgray;
+    border-radius:30px;
+    padding-left:10px ;
+    margin-left: 10px;
+}
+.feed_input form{
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+    width: 100%;
+}
+.feed_input input{
+    font-size: 12px;
+    font-weight: 600;
+    border:none;
+    border-radius: 5px;
+    outline: none;
+    margin-left: 10px;
+    height:45px;
+    width: 24vw;
+}
+.feed_input > form > button{
+    visibility: hidden;
+    margin-right: 30px;
+}
+
+.feed_inputOption{
+    display: flex;
+    justify-content: space-evenly;
+}

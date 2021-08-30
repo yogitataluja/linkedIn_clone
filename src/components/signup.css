@@ -1,0 +1,29 @@
+.center{
+    background-color: #EFEFEF;
+    padding: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.sign_up_form label{
+    font-size: 12px;
+    font-size: 400;
+    color:#888889!important;
+}
+.sign_up_form input{
+    border: 1px solid black;
+}
+
+.sign_up_form button{
+    background:#f1c218;
+    width: 100%;
+    cursor:pointer;
+    outline:none;
+    color: black;
+    font-size:16px;
+    font-weight: 700;
+    border-radius:5px; 
+}
+.sign_up_form button:hover{
+    background:#9b7a02;
+}

@@ -1,0 +1,36 @@
+.post{
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+    margin-bottom: 10px;
+}
+.post_header{
+    display: flex;
+    margin-bottom: 10px ;
+}
+.post_info{
+    margin-left: 10px;
+}
+.post_info h2{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.post_info p{
+    color:rgba(0, 0, 0, 0.6);
+    font-size: 12px;
+}
+.post_body{
+    overflow-wrap: anywhere;  /* handle overflow for you*/
+}
+.post_body p{
+    font-size: 14px;
+    font-weight:400
+}
+.post_btn{
+    display: flex;
+    justify-content: space-evenly;
+
+}
